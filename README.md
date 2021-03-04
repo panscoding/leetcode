@@ -10,3 +10,5 @@
    2.2. single number
    
    2.3. two single numbers
+   
+   2.4. Complement of Base 10 Number
