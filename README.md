@@ -8,3 +8,5 @@
    2.1. find missing  number
 
    2.2. single number
+   
+   2.3. two single numbers
