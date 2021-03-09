@@ -1,4 +1,5 @@
 """
+215. https://leetcode.com/problems/kth-largest-element-in-an-array/
 Given an unsorted array of numbers, find the ‘K’ largest numbers in it.
 Note: For a detailed discussion about different approaches to solve this problem, take a look at Kth Smallest Number.
 Example 1:
@@ -18,7 +19,8 @@ class Solution:
                 heappop(min_heap)
                 heappush(min_heap, nums[j])
 
-        return list(min_heap)
+        # return list(min_heap)
+        return min_heap[0]
 
 def main():
     nums = [3,2,1,5,6,4]
