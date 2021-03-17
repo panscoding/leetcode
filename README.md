@@ -15,4 +15,15 @@
 
 3. Top K Element
 
-   3.1 find k largest number
+   3.1 [findKLargest.py](https://github.com/panscoding/leetcode/blob/main/4.Top K Elements/215.findKLargest.py)
+   
+   3.2 [minimumCostToConnectRopes.py](https://github.com/panscoding/leetcode/blob/main/4.Top K Elements/1167.minimumCostToConnectRopes.py)
+   
+   3.3 [kClosest.py](https://github.com/panscoding/leetcode/blob/main/4.Top K Elements/973.kClosest.py)
+   
+   3.4 [findKthSmallest.py](https://github.com/panscoding/leetcode/blob/main/4.Top K Elements/findKthSmallest.py)
+
+10.Graph Topological Sort
+
+​		10.1 [topologicalSort.py](https://github.com/panscoding/leetcode/blob/main/10.Graph Topological Sort/topologicalSort.py)
+
