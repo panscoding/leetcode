@@ -15,7 +15,8 @@
 3. Sliding Window
 
    3.1 find averages of subarrays
-   
+   3.2 find maximum of subarrays of size K
+   3.3 smallest subarray with given sum
    
 4. Top K Element
 
