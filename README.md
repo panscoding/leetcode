@@ -17,6 +17,7 @@
    3.1 find averages of subarrays
    3.2 find maximum of subarrays of size K
    3.3 smallest subarray with given sum
+   3.4 longest substring with k distinct
    
 4. Top K Element
 
